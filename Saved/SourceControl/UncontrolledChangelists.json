@@ -10,7 +10,8 @@
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatformCube3x.uasset",
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatformCube.uasset",
-				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatform.uasset"
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatform.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_PushingCube.uasset"
 			]
 		}
 	]
