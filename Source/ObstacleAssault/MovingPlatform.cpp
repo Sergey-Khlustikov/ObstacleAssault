@@ -47,14 +47,7 @@ void AMovingPlatform::MovePlatform(float const DeltaTime)
 
 void AMovingPlatform::RotatePlatform(float const DeltaTime)
 {
-	UE_LOG(LogTemp, Warning, TEXT("RotatePlatform delta time: %f"), DeltaTime);
-	// FRotator const Rotation = FRotator(0, 0, 0);
-	//
-	// FRotator const DeltaRotation = FRotator(0, 0, 0);
-	//
-	// FRotator const NewRotation = Rotation + DeltaRotation;
-	//
-	// SetActorRotation(NewRotation);
+	AddActorLocalRotation(RotationVelocity * DeltaTime);
 }
 
 bool AMovingPlatform::ShouldPlatformReturn() const

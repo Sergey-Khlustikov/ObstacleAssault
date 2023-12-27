@@ -12,7 +12,8 @@
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatformCube.uasset",
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatform.uasset",
 				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_PushingCube.uasset",
-				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_ObstacleAssaultGameMode.uasset"
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_ObstacleAssaultGameMode.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_RotatingPlatform.uasset"
 			]
 		}
 	]
