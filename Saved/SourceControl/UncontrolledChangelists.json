@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/UnrealProjects/ObstacleAssault/Content/Levels/Main.umap",
-				"F:/UnrealProjects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
+				"F:/UnrealProjects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatformCube3x.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatformCube.uasset",
+				"F:/UnrealProjects/ObstacleAssault/Content/Blueprints/BP_MovingPlatform.uasset"
 			]
 		}
 	]
